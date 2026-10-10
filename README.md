@@ -91,25 +91,30 @@ The primary use case for this project is to serve as a comprehensive guide and d
 stock-pretrade-checklist_Skill/
 ├── README.md
 └── Skill_stock-pretrade-checklist/
-    ├── SKILL.md
+    ├── SKILL.md                                  主控：CRO角色、风格裁剪矩阵、7步自检流程、8条交互铁律、三档裁决
     ├── assets/
-    │   ├── decision-onepager-template.md
+    │   ├── decision-onepager-template.md         12问决策一页纸 + 落签承诺协议（V 风格）
     │   ├── example_asset.txt
-    │   ├── selfcheck-report-template.md
-    │   └── trade-card-template.md
+    │   ├── selfcheck-report-template.md          自检结论单（三态结果+红线+待补证据+量化核算+裁决）
+    │   └── trade-card-template.md                单笔交易卡片（T/H 风格通过后填写，盘前冻结）
     ├── references/
     │   ├── api_reference.md
-    │   ├── core-risk-discipline.md
-    │   ├── theme-sentiment-checklist.md
-    │   ├── trend-buy-checklist.md
-    │   └── value-long-checklist.md
+    │   ├── core-risk-discipline.md               【C·每次必读】闲钱检查、风险预算(单笔≤1%/单股≤20%)、
+    │   │                                          A股交易成本与T+1卡点、三重止损三类出场、六大偏差、
+    │   │                                          情绪体温计熔断、七步落地、三禁令三复盘、12问落签、7条红线
+    │   ├── theme-sentiment-checklist.md          【H·短线题材】逻辑/资金/梯队三问、七类催化、
+    │                                              一日游5信号、爆发当日六步、5条红线
+    │   ├── trend-buy-checklist.md                【T·趋势波段】趋势/位置/盈亏比(≥1:3)/确认信号四要素、
+    │   │                                          三类买点、四个不能买位置、买入前七问、卖点、5条红线
+    │   └── value-long-checklist.md               【V·价值长线】能力圈、现金流/杜邦ROE/护城河/治理红线、
+    │   │                                          PE周期陷阱/DCF/SOTP、隐含预期、三情景压力测试、小A避坑速查、8条红线
     └── scripts/
         └── example.py
 └── 自检Skill原始知识库文档/
     ├── 投资前自我反问与决策自检清单.md
-    ├── 投资避坑清单【作者：小A】.md
-    ├── 短线题材判断【作者：pytime】.md
-    └── 交易买点方法论【作者：pytime】.md
+    ├── 投资避坑清单【A】.md
+    ├── 短线题材判断【pytime】.md
+    └── 交易买点方法论【pytime】.md
 ```
 
 ## 📖 API Reference
