@@ -144,7 +144,7 @@ This project does not appear to have a specified license. Please consult the rep
 
 ---
 
-© 2023 YyyyyyoungC. All rights reserved.
+© 2026 YyyyyyoungC. All rights reserved.
 
 This project is maintained by YyyyyyoungC.
 
